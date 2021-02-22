@@ -88,7 +88,7 @@
       },
       "post" : {
         "tags" : [ "admins" ],
-        "summary" : "adds an inventory item",
+        "summary" : "adds an fff inventory item",
         "description" : "Adds an item to the system",
         "operationId" : "addInventory",
         "requestBody" : {

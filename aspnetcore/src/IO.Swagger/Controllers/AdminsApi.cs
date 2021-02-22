@@ -28,7 +28,7 @@ namespace IO.Swagger.Controllers
     public class AdminsApiController : ControllerBase
     { 
         /// <summary>
-        /// adds an inventory item
+        /// adds an fff inventory item
         /// </summary>
         /// <remarks>Adds an item to the system</remarks>
         /// <param name="body">Inventory item to add</param>
