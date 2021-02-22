@@ -13,7 +13,7 @@
     "version" : "1.0.0"
   },
   "servers" : [ {
-    "url" : "https://virtserver.swaggerhub.com/nousinfosystems/WHURL/1.0.0",
+    "url" : "https://virtserver.swaggerhub.com/nousinfosystems/GHTest/1.0.0",
     "description" : "SwaggerHub API Auto Mocking"
   } ],
   "tags" : [ {
